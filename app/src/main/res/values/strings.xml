@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Snowden</string>
+    <string name="title_home">Encrypt</string>
+    <string name="title_dashboard">Decrypt</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="encryption_key">Encryption_Key</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+</resources>
